@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/EmersonMonteiro68">
-  <img height="150.5em" src="https://github-readme-stats.vercel.app/api?username=deivsoares&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="150.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivsoares&layout=compact&langs_count=7&theme=merko"/>
+  <img height="150.5em" src="https://github-readme-stats.vercel.app/api?username=emersonmonteiro68&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="150.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonmonteiro68&layout=compact&langs_count=7&theme=merko"/>
 </div>
   <div style="display: inline_block" align="center"><br>
     <!-- <img align="center" alt="Deiv-Python" height="30" width="40"
